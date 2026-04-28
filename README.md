@@ -1,3 +1,8 @@
+<!-- ghmig:moved -->
+> **This repository has moved to [https://git.navicore.tech/navicore/hello-calculator.g8](https://git.navicore.tech/navicore/hello-calculator.g8).**
+>
+> The GitHub copy is archived and no longer maintained.
+
 A [Giter8][g8] template for ...!
 
 Template license
